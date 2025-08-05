@@ -1,0 +1,17 @@
+.coverage
+.idea
+.venv
+venv
+**/__pycache__
+cov.xml
+.env
+actions-log
+report.xml
+coverage.xml
+crontab
+.vscode/
+notified_docs_info_dump.json
+.mypy_cache
+.pytest_cache
+*.prof
+dev_stage_tls_v2.crt
