@@ -11,3 +11,8 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+Запуск `jupyterlab`
+```bash
+jupyter-lab
+```
