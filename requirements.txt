@@ -10,3 +10,4 @@ torchvision==0.22.1
 gensim==4.3.3
 matplotlib==3.10.5
 seaborn==0.13.2
+scikit-learn==1.7.1
